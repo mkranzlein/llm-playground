@@ -1,0 +1,14 @@
+name: llm-playground
+channels:
+  - conda-forge
+dependencies:
+  - flake8
+  - ipykernel
+  - jupyter
+  - langchain-core
+  - langgraph>0.2.27
+  - pip
+  - python=3.13
+  - python-dotenv
+  - pip:
+    - databricks-langchain
