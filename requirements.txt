@@ -1,0 +1,9 @@
+transformers
+flake8
+ipykernel
+jupyter
+langchain-core
+langchain[openai]
+langgraph>0.2.27
+torch
+python-dotenv
