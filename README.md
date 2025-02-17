@@ -14,3 +14,5 @@ pyenv activate llm-playground
 ```shell
 pip install -r requirements.txt
 ```
+
+## TODO: add pyproject.toml with install
