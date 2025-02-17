@@ -8,7 +8,7 @@ dependencies:
   - langchain-core
   - langgraph>0.2.27
   - pip
-  - python=3.13
+  - python>=3.12
   - python-dotenv
   - pip:
-    - databricks-langchain
+    - langchain[openai]
