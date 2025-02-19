@@ -1,9 +1,12 @@
-transformers
-flake8
+bitsandbytes
+datasets
 ipykernel
+flake8
 jupyter
 langchain-core
 langchain[openai]
 langgraph>0.2.27
-torch
+peft
 python-dotenv
+torch
+transformers
